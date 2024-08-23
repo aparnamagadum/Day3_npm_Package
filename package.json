@@ -1,0 +1,12 @@
+{
+  "name": "searchelement",
+  "version": "1.0.0",
+  "description": "program to search element present in an array using binary search technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Aparna Magadum",
+  "license": "ISC"
+}
